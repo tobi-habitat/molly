@@ -1,0 +1,3 @@
+- CMD öffnen Windows + R und dann cmd eintippen
+- Dann mit cd in den ordner molly gehen
+- und dann das programm mit ```gradlew.bat execute``` starten
